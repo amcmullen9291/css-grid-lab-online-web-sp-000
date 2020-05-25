@@ -12,10 +12,6 @@ body {
   /* your properties here */
 }
 
-.bigItem {
-  grid-column: 1/3;
-  grid-row: 1/3;
-}
 
 .grid-item {
   background-color: grey;
